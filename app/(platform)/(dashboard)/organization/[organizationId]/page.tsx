@@ -1,7 +1,5 @@
-import { OrganizationSwitcher } from '@clerk/nextjs';
-
 const OrganizationId = () => {
-  return <OrganizationSwitcher />;
+  return <div>Organization Page</div>;
 };
 
 export default OrganizationId;
